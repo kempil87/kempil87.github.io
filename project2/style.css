@@ -1,0 +1,119 @@
+div {
+  color: white !important;
+}
+
+@font-face {
+    font-family: "Banny";
+    src: url(./fonts/CutiesRabbits-6YL2D.ttf) format("truetype");
+}
+
+.container-app{
+    padding-left: 81px;
+    padding-right: 81px;
+}
+
+.bg {
+  /* height: 100vh; */
+  background-size: 100%;
+  background-image: url("./imges/header-bg.png");
+  background-repeat: no-repeat;
+}
+
+.top-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-top: 25px;
+}
+
+.nav-link {
+  color: white !important;
+}
+
+.main-center {
+  margin-top: 150px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+.main-center-item-left {
+  height: 2px;
+  color: white;
+  transform-origin: 0 0;
+  transform: rotate(90deg);
+}
+.icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: solid 2px;
+  border-color: #fff;
+  padding: 10px;
+  margin-top: 20px;
+  border-radius: 50%;
+}
+
+.main-center-item-center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.rest {
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 14px;
+}
+.title {
+  font-family: "Banny";
+  font-size: 96px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  text-transform: uppercase;
+}
+.line {
+  width: 60px;
+  height: 5.11px;
+  background: #e8c300;
+  border-radius: 50px;
+}
+.btn-container{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+.ml-40{
+    margin-left: 40px;
+}
+.btn-main{
+    display: flex;
+    justify-content: center;
+    width: 200px;
+    padding: 10px 40px;
+    border:  solid 1px;
+    border-color: white;
+    background: transparent;
+    border-radius: 5px; 
+}
+
+.btn-main:hover{
+    background-color:#E8C300; 
+    border-color: transparent;
+    cursor: crosshair;
+}
+.map{
+    padding-top: 93px;
+}
+.down-icon{
+    display: flex;
+    justify-content: center;
+    margin-top: 82px;
+    padding-bottom: 82px;
+}
