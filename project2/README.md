@@ -1,2 +1,0 @@
-# second
-My second project
