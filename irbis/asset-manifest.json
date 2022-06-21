@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/irbis/static/css/main.02fbe565.css",
+    "main.js": "/irbis/static/js/main.a66c41ec.js",
+    "static/media/revicons.eot": "/irbis/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/irbis/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/irbis/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/irbis/index.html",
+    "main.02fbe565.css.map": "/irbis/static/css/main.02fbe565.css.map",
+    "main.a66c41ec.js.map": "/irbis/static/js/main.a66c41ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02fbe565.css",
+    "static/js/main.a66c41ec.js"
+  ]
+}
