@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/irbis/static/css/main.7d2e7bee.css",
+    "main.js": "/irbis/static/js/main.51cee76d.js",
+    "index.html": "/irbis/index.html",
+    "main.7d2e7bee.css.map": "/irbis/static/css/main.7d2e7bee.css.map",
+    "main.51cee76d.js.map": "/irbis/static/js/main.51cee76d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d2e7bee.css",
+    "static/js/main.51cee76d.js"
+  ]
+}
